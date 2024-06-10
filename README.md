@@ -21,7 +21,6 @@
     <img align="center" height="40" width="40" alt="mongodb-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
    <img align="center" height="40" width="40" alt="aws-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
    <img align="center" height="40" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  
    </div>
     
   
@@ -29,7 +28,7 @@
     <a href = "mailto: lucas99br@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "*">
+    <a href = "www.linkedin.com/in/lucas-leão-615848308">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
