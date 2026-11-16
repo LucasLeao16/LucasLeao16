@@ -9,14 +9,14 @@
 
 ## 👋 Seja bem-vindo!
 
-<img align="right" height="220" alt="coding" src="code.gif">
-
 - 🔧 Foco em **Engenharia de Dados**: pipelines ETL/ELT, orquestração e modelagem de dados
 - 🤖 Explorando **IA e Machine Learning**: modelos preditivos, LLMs e RAG
 - ☁️ Trabalhando com **cloud** e infraestrutura para dados
-- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/lucas-le%C3%A3o-615848308) ou por [e-mail](mailto:lucas99br@gmail.com)
+- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/lucas-le%C3%A3o-615848308) ou por [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=lucas99br@gmail.com)
 
-<br clear="right"/>
+<p align="center">
+  <img width="100%" alt="Pipeline de dados: fontes, ETL, data lake, rede neural e insights" src="data-ai-pipeline.svg">
+</p>
 
 ## 🛠️ Tecnologias
 
@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-le%C3%A3o-615848308"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white"></a>
-  <a href="mailto:lucas99br@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucas99br@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <!-- A animação é gerada pelo workflow .github/workflows/snake.yml no branch "output" -->
